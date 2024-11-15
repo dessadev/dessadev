@@ -5,12 +5,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/HlDmgyL.png"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dessadev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="141" alt="languages graph"  />
 </div>
 
